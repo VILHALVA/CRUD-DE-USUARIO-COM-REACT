@@ -1,11 +1,11 @@
 # CRUD DE USUARIO COM REACT
 👨‍🏫APP DE CRUD DE USUÁRIOS QUE GERENCIA NOME, EMAIL, TELEFONE E DATA DE NASCIMENTO COM REACT E MYSQL!
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 Este projeto é um aplicativo CRUD (Create, Read, Update, Delete) de usuários que gerencia informações como nome, email, telefone e data de nascimento. Ele utiliza React no frontend para criar uma interface de usuário interativa e MySQL como banco de dados para armazenar os dados dos usuários.
