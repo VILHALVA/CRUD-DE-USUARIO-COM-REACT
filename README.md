@@ -21,7 +21,7 @@ Este projeto é um aplicativo CRUD (Create, Read, Update, Delete) de usuários q
 
 ## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
-   - Antes de executar o aplicativo, é necessário importar o arquivo `DATABASE.sql` que está localizado em `CODIGO/api`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-MYSQL) para orientações detalhadas.
+   - Antes de executar o aplicativo, é necessário importar o arquivo `DATABASE.sql` que está localizado em `CODIGO/api`.
 
 2. **Configuração do JS:**
    - Abra o arquivo em `./CODIGO/db.js` e ajuste as configurações do seu banco de dados:
